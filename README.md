@@ -1,16 +1,27 @@
-# uts_omjek_app
+# 📝 UTS Pemrograman Mobile 2
 
-A new Flutter project.
+Disusun untuk memenuhi **UTS Mata Kuliah Pemrograman Mobile 2**  
+yang diampu oleh **Dosen Nova Agustina, ST., M.Kom.**
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🔗 Link Repository  
+https://github.com/bang-jekk/UTS_PEMMOB2_Zainuddin-Muhammad-Zakiy_TIF-K-23B
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 👤 Identitas Penyusun  
+**Nama**        : Zainuddin Muhammad Zakiy  
+**NIM**         : 23552011173  
+**Kelas**       : TIF K 23B  
+**Mata Kuliah** : Pemrograman Mobile 2  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🏫 Institusi  
+**PROGRAM STUDI TEKNIK INFORMATIKA**  
+**FAKULTAS INDUSTRI KREATIF**  
+**UNIVERSITAS TEKNOLOGI BANDUNG**  
+**2025**
+
+---
